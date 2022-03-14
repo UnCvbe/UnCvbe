@@ -1,5 +1,5 @@
 ### Hello!
-My name is Lori Ann Avila, however, Cube has been a pseudonym the I have been using online for quite a few years.
+My name is Lori Ann Avila, however, Cube has been a pseudonym the I have been using online for quite a few years. \n
 I'm currently an undergraduate student at CSUF majoring in Latin American Studies and Computer Engineering.
 I am currently working on finishing up a project creating my own portable monitor for my laptop to have a second screen, 
   as well as working on starting a remote controled skateboard project by first researching the components needed then deciding if 
